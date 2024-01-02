@@ -42,7 +42,6 @@ Neste decode foi criado um projeto Node.js + React para mostrar o funcionamento 
 
 ## 📎 Passo a passo
 
-
 <br>
 
 ## 🎨 Layout
@@ -56,7 +55,8 @@ Neste decode foi criado um projeto Node.js + React para mostrar o funcionamento 
 <br>
 
 ## 🚀 Como executar o projeto
-<!-- 
+
+<!--
 > 💡 O Frontend precisa que o Backend esteja sendo executado para funcionar.
 
 <br>
@@ -80,9 +80,9 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# O servidor inciará na porta:3333 - acesse http://localhost:3333
 
-``` 
+```
 
 <br>
 
@@ -123,7 +123,7 @@ $ npm run start
 ## 🛠 Tecnologias
 
 <!--
-- [React](https://reactjs.org/) 
+- [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en/)
 - [NestJS](https://nestjs.com/)
@@ -143,7 +143,8 @@ $ npm run start
 -->
 
 **Utilitários**
-<!-- 
+
+<!--
 - Protótipo: **[Figma](https://www.figma.com/)**
 - Documentação API: **[Postman](https://www.postman.com/)**
  -->
@@ -154,7 +155,7 @@ $ npm run start
 <img src="https://ik.imagekit.io/l7cwocexhc/me/card_nlnadialigia.png?updatedAt=1694126884257" width="300px;" alt="Picture"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](https://img.shields.io/badge/-Linkedin-732a7b?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nlnadialigia/)](https://www.linkedin.com/in/nlnadialigia)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-732a7b?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/nl.nadia.ligia)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/-Email-732a7b?style=plastic&logo=Gmail&logoColor=white&link=mailto:nlnadialigia@gmail.com)](mailto:nlnadialigia@gmail.com)&nbsp;&nbsp;
-[![Homepage](https://img.shields.io/badge/-Homepage-732a7b?style=plastic)](https://www.nlnadialigia.com)
 
 ---
