@@ -1,4 +1,4 @@
-name: Ignite Lab
+name: Decode Graphql
 on:
   push:
     branches:
